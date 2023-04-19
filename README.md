@@ -1,4 +1,4 @@
-# rise in CO2-emissions around the world(Lab-1)
+# Rise in CO2-emissions around the world(Lab-1)
 
 Describtion: Using the greenhouse gas emission data in owid-co2-data.csv from "Our World in Data", the purpose of this project is to determine how the emission levels of the current top 10 CO2 emitters have changed over the last 50 years (from 1971 - 2020). By importing the data to phython and processing the data with different codes, the results showed a tread in the co2 emissions of top emitters from different countries of a exponential rise throughout the last 50 years. 
 
